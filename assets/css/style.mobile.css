@@ -1,4 +1,4 @@
-@media screen and (ax-width:375px) {
+@media screen and (ax-width:480px) {
     #container{
         width: 90%;
     }
@@ -91,7 +91,7 @@
 }
 
 #imgM{
-    display: block;;
+    display: block;
 
 }
 #imgD{
